@@ -4,7 +4,9 @@ An end-to-end data science project analyzing the WTA tour (2020-2026), featuring
 
 ## Live Demo
 
-Run the predictor locally:
+## 🎾 [Prueba el predictor en vivo →](https://wta-tennis-analytics-saraygarcia.streamlit.app/)
+
+También podés correrlo localmente:
 ```bash
 python -m streamlit run app.py
 ```
